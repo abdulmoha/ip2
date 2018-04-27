@@ -3,17 +3,65 @@
   margin: 0px;
   padding: 0px;
 }
-
-.jumbotron{
+.jumbotron {
   height: 700px;
   background: url("../mpft/ip2/assets/backgrounds/landing.jpg");
   background-size: cover;
+  /* background-repeat: no-repeat; */
+  margin-bottom: 0px;
 }
-
-.logoBrief{
+.menu{
+  padding: 50px;
+}
+.logo{
   width: 300px;
   margin: 0 auto;
+}
+.brief{
+  color: #fff;
+  margin: 20px auto;
+  width: 400px;
+  text-transform: capitalize;
   text-align: center;
-  color: white;
-  font-size: 25px;
+  font-family: 'Gothic A1', sans-serif;
+  line-height: 0.3px;
+}
+.hook {
+  font-weight: 700;
+}
+#foodtop{
+  margin-top: 0px;
+}
+.photo{
+  background-color: #fff;
+  border: 1px solid black;
+  height: 210px;
+  color: #fff;
+  text-align: center;
+}
+.photo p{
+  position: relative;
+  top: 105px;
+}
+#img1{
+  background: url("../mpft/ip2/assets/foodtop/breakfast.jpg");
+}
+#img2{
+  background: url("../mpft/ip2/assets/foodtop/lunch.jpg");
+}
+#img3{
+  background: url("../mpft/ip2/assets/foodtop/dinner.jpg");
+}
+#top-row{
+  height: 105px;
+  padding: 50px;
+  text-align: center;
+  color: #333;
+}
+#bottom-row{
+  height: 105px;
+  padding: 50px;
+  text-align: center;
+  color: #fff;
+  background-color: #F15A29;
 }
