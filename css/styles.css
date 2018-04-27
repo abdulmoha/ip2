@@ -1,0 +1,19 @@
+.container{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.jumbotron{
+  height: 700px;
+  background: url("../mpft/ip2/assets/backgrounds/landing.jpg");
+  background-size: cover;
+}
+
+.logoBrief{
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
