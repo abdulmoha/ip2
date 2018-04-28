@@ -88,6 +88,7 @@
   padding: 70px 0px;
 }
 #lukaku{
+  background: cover;
   height: 600px;
   background: url("/home/its_abdulmoha/Desktop/MProjects/ipwk2/mpft/ip2/assets/backgrounds/foodsBg.jpg");
 }
@@ -123,4 +124,11 @@
 }
 #butt{
   color: #f15a29;
+}
+#footer{
+  background-color: #f15a29;
+  text-align: center;
+}
+#burger{
+  color: white;
 }
