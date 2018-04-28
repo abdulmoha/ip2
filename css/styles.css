@@ -71,7 +71,16 @@
   margin: 0 auto;
   width: 85%;
   font-size: 20px;
-
+}
+#youngy{
+  text-align: left;
+}
+#jones{
+  text-align: right;
+}
+#buffdr{
+  background-color: #fff;
+  color: #f15a29;
 }
 .ffdr{
   border: 1px solid black;
@@ -123,7 +132,12 @@
   padding: 120px;
 }
 #butt{
-  color: #f15a29;
+  background-color: #f15a29;
+  color: #fff;
+  border-color: #F15A29;
+  border-radius: 4px;
+  border: 1px;
+  font-size: 20px;
 }
 #footer{
   background-color: #f15a29;
