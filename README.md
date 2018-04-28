@@ -14,6 +14,9 @@ To start using this project use the following commands;
 - `atom .`
 - `code . [//]: # (this is if Visual Studio Code is your preferred text editor)`
 
+##### Link to gh-pages
+https://github.com/abdulmoha/ip2/tree/gh-pages
+
 ### License Info
 MIT License
 
