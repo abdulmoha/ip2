@@ -101,3 +101,14 @@
   height: 55px;
   border: 1px solid black;
 }
+#carrick{
+  background-color: white;
+  padding: 130px;
+}
+.custombout{
+  border: 1px solid black;
+  box-shadow: 0 0 5px #000;
+  text-align: center;
+  margin: 0 auto;
+  padding: 15px;
+}
