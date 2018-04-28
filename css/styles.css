@@ -81,6 +81,10 @@
 #buffdr{
   background-color: #fff;
   color: #f15a29;
+  font-size: 15px;
+  border-radius: 4px;
+  border-color: #f15a29;
+  width: 200px;
 }
 .ffdr{
   border: 1px solid black;
@@ -100,6 +104,9 @@
   background: cover;
   height: 600px;
   background: url("/home/its_abdulmoha/Desktop/MProjects/ipwk2/mpft/ip2/assets/backgrounds/foodsBg.jpg");
+}
+#curs{
+  cursor: pointer;
 }
 .mata{
   background-color: white;
@@ -145,4 +152,9 @@
 }
 #burger{
   color: white;
+}
+.btn btn-default{
+  background-color: #fff;
+  color: black;
+  cursor: default;
 }
