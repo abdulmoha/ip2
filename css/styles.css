@@ -112,3 +112,15 @@
   margin: 0 auto;
   padding: 15px;
 }
+#rashy{
+  height: 300px;
+  background: cover;
+  background: url("/home/its_abdulmoha/Desktop/MProjects/ipwk2/mpft/ip2/assets/backgrounds/subscribe.jpg")
+}
+#subs{
+  color: white;
+  padding: 120px;
+}
+#butt{
+  color: #f15a29;
+}
