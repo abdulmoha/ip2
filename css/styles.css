@@ -10,14 +10,14 @@
   /* background-repeat: no-repeat; */
   margin-bottom: 0px;
 }
-.menu{
+.toggle{
   padding: 50px;
 }
 .logo{
   width: 300px;
   margin: 0 auto;
 }
-.brief{
+.text{
   color: #fff;
   margin: 20px auto;
   width: 400px;
@@ -26,10 +26,10 @@
   font-family: 'Gothic A1', sans-serif;
   line-height: 0.3px;
 }
-.hook {
+.bold {
   font-weight: 700;
 }
-#foodtop{
+#ftop{
   margin-top: 0px;
 }
 .photo{
@@ -43,25 +43,46 @@
   position: relative;
   top: 105px;
 }
-#img1{
+#picha{
   background: url("../mpft/ip2/assets/foodtop/breakfast.jpg");
 }
-#img2{
+#picha2{
   background: url("../mpft/ip2/assets/foodtop/lunch.jpg");
 }
-#img3{
+#picha3{
   background: url("../mpft/ip2/assets/foodtop/dinner.jpg");
 }
-#top-row{
+#row-1{
   height: 105px;
   padding: 50px;
   text-align: center;
   color: #333;
 }
-#bottom-row{
+#row-2{
   height: 105px;
   padding: 50px;
   text-align: center;
   color: #fff;
   background-color: #F15A29;
+}
+.ffood{
+  padding-top: 5%;
+  margin: 0 auto;
+  width: 85%;
+  font-size: 20px;
+
+}
+.ffdr{
+  border: 1px solid black;
+  text-align:center;
+  width: 72%;
+  margin: 0 auto;
+  padding: 20px 10px;
+  box-shadow: 0 0 5px #000;
+}
+.ff{
+  padding: 50px 0px;
+}
+.dr{
+  padding: 50px 0px;
 }
