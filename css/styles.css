@@ -9,6 +9,7 @@
   background-size: cover;
   /* background-repeat: no-repeat; */
   margin-bottom: 0px;
+  width: 100%;
 }
 .toggle{
   padding: 50px;
@@ -84,5 +85,19 @@
   padding: 50px 0px;
 }
 .dr{
-  padding: 50px 0px;
+  padding: 70px 0px;
+}
+#lukaku{
+  height: 600px;
+  background: url("/home/its_abdulmoha/Desktop/MProjects/ipwk2/mpft/ip2/assets/backgrounds/foodsBg.jpg");
+}
+.mata{
+  background-color: white;
+  height: 450px;
+  margin: 77px 210px;
+  padding: 55px;
+}
+.martial{
+  height: 55px;
+  border: 1px solid black;
 }
