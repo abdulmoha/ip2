@@ -11,6 +11,11 @@
   margin-bottom: 0px;
   width: 100%;
 }
+h2{
+  font-weight: bold;
+  font-family: serif;
+  font-style: normal;
+}
 .toggle{
   padding: 50px;
 }
@@ -43,6 +48,9 @@
 .photo p{
   position: relative;
   top: 105px;
+  font-family: serif;
+  font-style: oblique;
+  font-size: 25px
 }
 #picha{
   background: url("../mpft/ip2/assets/foodtop/breakfast.jpg");
@@ -117,6 +125,9 @@
 .martial{
   height: 55px;
   border: 1px solid black;
+  border-radius: 4px;
+  border-width: 1px;
+  color:  #f15a29;
 }
 #carrick{
   background-color: white;
@@ -136,9 +147,18 @@
 }
 #subs{
   color: white;
-  padding: 120px;
+  padding-top:120px;
+  padding-bottom: 90px;
+  float: right;
+  padding-right: 38%;
 }
-#butt{
+input#email{
+  color: black;
+}
+#email-input{
+  color: #fff;
+}
+.butt{
   background-color: #f15a29;
   color: #fff;
   border-color: #F15A29;
