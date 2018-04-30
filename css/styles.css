@@ -52,6 +52,10 @@ h2{
   font-style: oblique;
   font-size: 25px
 }
+.photo:hover{
+  opacity: 0.8;
+
+}
 #picha{
   background: url("../mpft/ip2/assets/foodtop/breakfast.jpg");
 }
@@ -111,7 +115,7 @@ h2{
 #lukaku{
   background: cover;
   height: 600px;
-  background: url("/home/its_abdulmoha/Desktop/MProjects/ipwk2/mpft/ip2/assets/backgrounds/foodsBg.jpg");
+  background: url("../mpft/ip2/assets/backgrounds/foodsBg.jpg");
 }
 #curs{
   cursor: pointer;
@@ -143,7 +147,7 @@ h2{
 #rashy{
   height: 300px;
   background: cover;
-  background: url("/home/its_abdulmoha/Desktop/MProjects/ipwk2/mpft/ip2/assets/backgrounds/subscribe.jpg")
+  background: url("../mpft/ip2/assets/backgrounds/subscribe.jpg")
 }
 #subs{
   color: white;
