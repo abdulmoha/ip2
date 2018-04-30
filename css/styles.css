@@ -117,7 +117,7 @@ h2{
   height: 600px;
   background: url("../mpft/ip2/assets/backgrounds/foodsBg.jpg");
 }
-#curs{
+.curs{
   cursor: pointer;
 }
 .mata{
